@@ -15,7 +15,7 @@ export type MediaType = {
 
 const mediaList: MediaType[] = [
   {
-    url: "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
+    url: "https://taraftariumframe1.shop/player2.php?channel=yayinb4",
     title: "YouTube Video Sample",
     subTitle: "Caminandes 3: Llamigos",
     preview: true,
